@@ -70,5 +70,9 @@
     "metasql": "^2.1.0",
     "pg": "^8.8.0",
     "redis": "^4.5.0"
-  }
+  },  
+  "workspaces": [
+    "./packages/*"
+  ]
+  
 }
